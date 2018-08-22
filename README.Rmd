@@ -1,0 +1,23 @@
+---
+title: "README"
+author: "Samuel Ash"
+date: "`r Sys.Date()`"
+output: 
+  github_document:
+---
+
+# Overview of Project
+Initial prep/cleaning of baseline local histogram data from multiple cohorts including:
+COPDGene (previously prepped using SAS)
+ECLIPSE
+PLuSS
+
+## Data Sets Using (including name, date created, date accessed)
+
+## Libraries Used For Analysis
+
+# Analysis
+
+## Data Manipulation
+
+## Analytics
